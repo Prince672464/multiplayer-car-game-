@@ -1,0 +1,7 @@
+.ref -  Will reffer the location of the Database value.
+.on  -  Will ceate a listner which keeps listening to he changes in the database.
+readPosition function() - is called when there is a change in database value.
+
+//Posiblitty of error in reading the values// (Error solution)
+showError  => Works in backend(Buisness logic)
+.set - This is used to set the value in the Database.
